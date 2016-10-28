@@ -232,7 +232,7 @@ nav {
 @media (max-width: 480px) {
     .scroll-1 {
         width: 350px;
-        margin-left: -225px;
+        margin-left: -175px;
     }
     .scroll-1 .card .cover {
         width: 350px;
